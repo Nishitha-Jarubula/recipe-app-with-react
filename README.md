@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This project is basically a recipe-react-app which includes a search bar and search button  where you actually search  for the recipes of all the dishes.
+This app is actually using react hooks and functional components
 ## Available Scripts
 
 In the project directory, you can run:
